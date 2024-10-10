@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 aye bhai age conflict hosakta hai- take first
 =======
 we are practicing merge conflict on new merge-conflict branch.
->>>>>>> branch-for-practice-merge-conflict
+
